@@ -14,7 +14,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.3.RELEASE</version>
-		<relativePath>https://github.com/jastrous/App1</relativePath>
+		<relativePath>https://github.com/jastrous/</relativePath>
 	</parent>
 
 	<properties>
